@@ -1,5 +1,7 @@
 # Analyse du compte LinkedIn de Philippe Isselin
 
+> ⚠️ **L'inventaire de ce document est périmé.** Le corpus réel, avec texte intégral et compteurs d'engagement, est dans `corpus-linkedin-reel.md`. Les accroches reconstituées ici depuis les slugs d'URL sont fausses dans deux cas. Les analyses de méthode restent valables.
+
 Analyse menée le 18/09/2026. **Version 2** : corpus élargi de 6 à 16 posts identifiés, et une conclusion de la v1 corrigée (voir § 3).
 
 > ## ⚠️ Ce que cette analyse est, et ce qu'elle n'est pas
