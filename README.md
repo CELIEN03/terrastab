@@ -9,6 +9,8 @@ Référentiel de travail pour le compte client **TerraStab**, opéré par **BTP 
 | `docs/prompt-systeme-terrastab.md` | Prompt système de référence : entreprise, équipe, cibles de prospection P1-P5, règles juridiques et éditoriales, données chiffrées RGA, workflow de production |
 | `docs/reunions/2026-09-18-point-terrastab-fathom.md` | Transcription Fathom intégrale du point du 18/09/2026 |
 | `docs/reunions/2026-09-18-point-terrastab-synthese.md` | Synthèse, décisions et chiffres à valider issus de ce point |
+| `docs/references/jancovici-playbook-communication.md` | Méthode de communication de Jean-Marc Jancovici, ce qui est transposable au RGA et ce qui ne l'est pas |
+| `docs/references/personnes-et-entites-citees-18-09-2026.md` | Vérification des noms cités au point du 18/09/2026 (Béchade, Ighil Ameur, MACH/Cerema) et écarts de données relevés |
 
 ## Ordre de priorité des règles
 
