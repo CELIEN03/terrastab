@@ -93,7 +93,7 @@ Le post sur les 7 arrêtés CatNat est daté, sourcé, et argumenté vers une th
 
 La règle interne est une publication planifiée à 8h par Lauriane. **Un seul post sur huit est à 8h00.** Trois sont publiés l'après-midi ou le soir. Deux hypothèses : soit le process de planification n'est pas appliqué, soit Philippe publie lui-même en réaction à l'actualité. **À clarifier avec Lauriane** — l'irrégularité horaire dilue la régularité que l'algorithme récompense.
 
-**Rythme.** Concentration très forte sur mars-avril 2026 (6 posts datés sur 8), puis un seul post indexé jusqu'à fin juin. ⚠️ Artefact d'indexation probable, la production étant hebdomadaire. Mais **l'empreinte hors LinkedIn reste faible** : pour quelqu'un qui doit devenir la référence RGA, c'est un vrai point faible.
+**Rythme.** ⚠️ **Corrigé le 18/09/2026 : la cadence réelle est de 4 posts par semaine, pas hebdomadaire.** Les trous apparents dans le calendrier sont entièrement un artefact d'indexation. En revanche **l'empreinte hors LinkedIn reste faible** : pour quelqu'un qui doit devenir la référence RGA, c'est un vrai point faible, et il ne se corrige pas en publiant davantage sur LinkedIn.
 
 ---
 

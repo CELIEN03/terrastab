@@ -36,7 +36,11 @@ La typologie d'accroches de la version précédente était donc bâtie sur du sa
 | 7 | 27/04/2026 | « TerraStab vient d'obtenir le label Solar Impulse Efficient Solution. » | 10 | 0 |
 | 8 | 26/06/2026 | « Le RGA représente 70 % des coûts du régime CatNat. » | 25 | **11** |
 
-⚠️ **Limites.** Compteurs visibles en déconnecté, potentiellement partiels. L'audience a grandi sur la période, donc les chiffres ne sont pas strictement comparables dans le temps. Et 8 posts sur 137 ne font pas un échantillon : c'est ce que l'indexation publique laisse voir.
+⚠️ **Limites, et elles sont sérieuses.** La cadence réelle est de **4 posts par semaine** (confirmée par Célien le 18/09/2026), soit environ **137 posts** au compteur du profil. Les 8 posts ci-dessus représentent donc **moins de 6 % du corpus**, et ce sont ceux que l'indexation publique a retenus — pas un échantillon aléatoire. Les compteurs sont par ailleurs ceux visibles en déconnecté, potentiellement partiels, et l'audience a grandi sur la période.
+
+**Conséquence : aucune conclusion de performance ci-dessous n'a valeur statistique.** Ce sont des pistes à confirmer sur le corpus complet, pas des résultats.
+
+**Ce que la cadence réelle invalide aussi :** les « trous » apparents dans le calendrier (sept mois entre le post de juillet 2025 et celui de mars 2026) sont **entièrement un artefact d'indexation**. La production n'a pas connu d'interruption.
 
 ---
 
@@ -50,7 +54,7 @@ La typologie d'accroches de la version précédente était donc bâtie sur du sa
 
 **Les deux plus commentés sont l'annonce produit (12) et le post à 70 % (11).**
 
-➡️ Le fil conducteur n'est pas la qualité d'écriture : **ce sont les posts qui annoncent un événement ou ouvrent un débat qui font réagir.** Le beau texte sans nouvelle ne déclenche rien.
+➡️ Piste, à confirmer sur le corpus complet : le fil conducteur ne serait pas la qualité d'écriture, mais **le fait d'annoncer un événement ou d'ouvrir un débat**. Le beau texte sans nouvelle déclencherait moins. ⚠️ Huit points de mesure sur cent trente-sept : c'est une hypothèse de travail, pas une conclusion.
 
 C'est une nuance importante pour le plan à venir. La note de cadrage de juin et le prompt système poussent vers le storytelling pur ; les données disponibles suggèrent que le storytelling **adossé à une actualité** est ce qui fonctionne. Le post France 3 fait les deux, et c'est le meilleur compromis du corpus.
 
@@ -102,7 +106,18 @@ Laurent Charlemaine et Stéphane Giloppé commentent également ce post. ⚠️ 
 
 ---
 
-## 6. Suite possible
+## 6. Ce que la cadence de 4 posts/semaine implique
+
+La cadence est de **4 posts par semaine**, conforme au calendrier de la stratégie de mars 2026 : mardi Éducation, mercredi Autorité, jeudi Mission, vendredi Coulisses.
+
+Deux conséquences directes sur le reproche de répétition formulé par Philippe le 18/09 :
+
+1. **À ce rythme, la répétition est mécanique, pas accidentelle.** Quatre prises de parole hebdomadaires sur un sujet unique épuisent en quelques semaines les angles disponibles. Le problème n'est pas la paresse rédactionnelle : c'est un débit supérieur à la production de matière première.
+2. **La règle de la note de juin — « aucune statistique répétée d'un post à l'autre, chaque post possède sa donnée » — est intenable à 4 posts/semaine** sans un réservoir de données sourcées considérable. Environ 200 données distinctes par an.
+
+➡️ **C'est exactement ce que résout le socle `terrastab.fr/rga-news`** : une quarantaine d'articles déjà sourcés, datés, rubriqués, chacun contenant plusieurs données vérifiées. Le déclinage de ce socle est la seule manière d'alimenter quatre posts hebdomadaires sans se répéter ni inventer de chiffres. Ce n'est pas une optimisation, c'est la condition de tenue du rythme.
+
+## 7. Suite possible
 
 Le profil compte **137 posts**. La méthode fonctionne : dès qu'on a l'URL d'un post, on récupère texte, compteurs et commentaires. Il manque un moyen d'énumérer les URLs — la page d'activité et la page entreprise redirigent vers l'authentification.
 
