@@ -21,3 +21,13 @@ Fiches de référence dans `docs/references/` : méthode de communication Jancov
 - **Profondeur technique** : ne rien publier comparant l'hydrostabilisation à d'autres approches sans cadrage préalable de Philippe et Stéphane (voir le projet MACH/MACH+ du Cerema dans `docs/references/personnes-et-entites-citees-18-09-2026.md`).
 - **Tiret cadratin banni** dans les posts LinkedIn de Philippe.
 - Tutoiement de Célien, vouvoiement de Philippe.
+
+## Limite d'environnement (vérifiée le 18/09/2026)
+
+La politique d'egress de cette session **bloque tout le web sortant sauf GitHub** : LinkedIn, terrastab.fr, YouTube, Wikipédia, cerema.fr, legifrance.gouv.fr, ccr.fr, georisques.gouv.fr, lemoniteur.fr, theconversation.com renvoient tous un 403 sur le CONNECT du proxy. Chromium et Playwright passent par le même proxy : ils ne contournent rien.
+
+Conséquences :
+- **la recherche web fonctionne** (elle ne passe pas par ce proxy) et reste le seul canal d'accès à l'information externe ;
+- **aucune source primaire ne peut être ouverte et lue** depuis cette session. Toute vérification de chiffre doit être refaite à la main par un humain avant publication ;
+- inutile de retenter : selon le README du proxy, un 403 est une décision de politique, à signaler et non à contourner.
+
